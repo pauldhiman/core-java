@@ -1,0 +1,33 @@
+Data Structure:
+premetive DS:
+  int
+  double
+  long
+  char
+  short
+  byte
+  boolean
+
+Non-premetive DS:
+  Linear DS:
+    Array
+    Stack
+    Link-list
+    Queue    
+  Non-Liner DS:
+    Tree
+    Hash-Table/Map
+    Graph
+    
+
+  Array
+  Stack
+  Queue
+
+Array: 
+  Array is liner DS
+  Array is fix size DS
+  Array retrive by index.
+
+Stack:
+  Stack is 
